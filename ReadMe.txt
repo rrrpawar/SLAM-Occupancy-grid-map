@@ -1,0 +1,1 @@
+Run the file OccupancyMap_usingDrivingScenario.m with all the helper functions in the same folder.
